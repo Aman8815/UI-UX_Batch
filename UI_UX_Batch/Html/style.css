@@ -1,0 +1,47 @@
+body{
+
+    width: 500px;
+    height: 100px;
+    background-color: lightblue;
+}
+
+Form{
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 50px;
+    background-color: lightgrey;
+}
+label {
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 10px;
+  width: 150px; /* 👈 Label ki fixed width */
+}
+input {
+  font-size: 16px;
+  padding: 5px;
+  width: 300px; /* 👈 Input field ki width */
+  margin-bottom: 15px;
+}
+select {
+  font-size: 16px;
+  padding: 5px;
+  width: 314px; /* 👈 Select field ki width */
+  margin-bottom: 15px;
+}
+chackbox {
+  margin-right: 10px;
+}
+div {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+A:hover {
+    background-color: yellow;
+}
+h1 {
+    text-align: center;
+    color: blue;
+}
